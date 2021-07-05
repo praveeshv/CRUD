@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "first_name": "praveesh",
+      "last_name": "v",
+      "email": "pravi@gmail.com",
+      "mobile": "9999999999",
+      "salary": "5000000"
+    },
+    {
+      "id": 4,
+      "first_name": "sarun",
+      "last_name": "b",
+      "email": "sarun@gmail.com",
+      "mobile": "6767676767",
+      "salary": "400000"
+    },
+    {
+      "id": 5,
+      "first_name": "athil",
+      "last_name": "k",
+      "email": "athul@gmail.com",
+      "mobile": "8989898989",
+      "salary": "5000"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
